@@ -1,0 +1,35 @@
+*{
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+}
+.section{
+    margin-top: 5%;
+}
+h2{
+    color: rgb(76, 30, 150);
+}
+
+input{
+    width: 25%;
+
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+button{
+    width: 10%;
+    border-radius: 9px;
+    background-color: rgb(76, 30, 150);
+    color: white;
+}
+span{
+    border: 1px solid;
+    padding: 7px 10px;
+}
+li{
+    list-style-type: none;
+    margin-bottom: 20px;
+
+
+}
